@@ -17,7 +17,15 @@
     - to reload
     ```make reload```
 
+Net Speed
+=========
 
+Show current net speed on panel.
+--------------------------------
+
+This extension is inspired by <https://github.com/hedayaty/NetSpeed.git> which has some very good features existing for a long time. Just for the fun of tweaking few feature have been edited.
+
+It only shows text like `↓ 777 K/s ↑ 2.33 K/s` on the right part of panel, different icons and size.
 
 ### Install
 
